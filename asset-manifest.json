@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.7097dabf.css",
-    "main.js": "./static/js/main.9d4b5bee.js",
-    "static/js/787.562d4799.chunk.js": "./static/js/787.562d4799.chunk.js",
-    "index.html": "./index.html",
-    "main.7097dabf.css.map": "./static/css/main.7097dabf.css.map",
-    "main.9d4b5bee.js.map": "./static/js/main.9d4b5bee.js.map",
-    "787.562d4799.chunk.js.map": "./static/js/787.562d4799.chunk.js.map"
+    "main.css": "/deploma-ui-build/static/css/main.7097dabf.css",
+    "main.js": "/deploma-ui-build/static/js/main.64aff2e6.js",
+    "static/js/787.562d4799.chunk.js": "/deploma-ui-build/static/js/787.562d4799.chunk.js",
+    "index.html": "/deploma-ui-build/index.html",
+    "main.7097dabf.css.map": "/deploma-ui-build/static/css/main.7097dabf.css.map",
+    "main.64aff2e6.js.map": "/deploma-ui-build/static/js/main.64aff2e6.js.map",
+    "787.562d4799.chunk.js.map": "/deploma-ui-build/static/js/787.562d4799.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7097dabf.css",
-    "static/js/main.9d4b5bee.js"
+    "static/js/main.64aff2e6.js"
   ]
 }
